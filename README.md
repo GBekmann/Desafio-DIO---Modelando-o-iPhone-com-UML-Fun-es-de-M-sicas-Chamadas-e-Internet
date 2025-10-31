@@ -16,25 +16,27 @@ No projeto, estamos simulando um dispositivo iPhone e suas principais funções.
 também temos cada respectiva interface com 3 métodos simulando suas funcionalidades e o 4° arquivo sendo o iPhone, classe na qual implementarei as interfaces
 
 1. ReprodutorMusical (interface)
-   * tocar();
-   * pausar();
-   * selecionarMusica();  
+   * `tocar()`
+   * `pausar()`
+   * `selecionarMusica()`  
 
 
 2. Telefone (interface)
-   * atender();
-   * ligar();
-   * iniciarCorreioVoz();
+   * `atender()`
+   * `ligar()`
+   * `iniciarCorreioVoz()`
 
    
 3. NavegadorInternet (interface)
-   * atualizarPagina();
-   * exibirPagina();
-   * adicionarNovaAba
+   * `atualizarPagina()`
+   * `exibirPagina()`
+   * `adicionarNovaAba`
 
 4. iPhone (classe)
     * Classe onde implementa demais interfaces acima
 
+
+E por fim, temos a classe Main.java onde por fim é instanciada a classe iPhone e utilizado de seus métodos para a validação de funcionamento do código.
 ***
 
 ### Segue abaixo a diagramação do projeto

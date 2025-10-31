@@ -36,7 +36,7 @@ também temos cada respectiva interface com 3 métodos simulando suas funcionali
     * Classe onde implementa demais interfaces acima
 
 
-E por fim, temos a classe Main.java onde por fim é instanciada a classe iPhone e utilizado de seus métodos para a validação de funcionamento do código.
+E fora do pacote interfaces, Temos a classe Main.java onde por fim é instanciada a classe iPhone e utilizado de seus métodos para a validação de funcionamento do código.
 ***
 
 ### Segue abaixo a diagramação do projeto
